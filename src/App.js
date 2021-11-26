@@ -267,7 +267,7 @@ const App = () => {
 									title="Home"
 									rel="noopener noreferrer"
 								>
-									Issues
+									Home
 								</a>
 							</li>
 						</ul>
