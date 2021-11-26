@@ -251,7 +251,7 @@ const App = () => {
 							<li className="list-inline-item"> - </li>
 							<li className="list-inline-item">
 								<a
-									href="https://github.com/awran5/react-typing-speed-test-game"
+									href="https://github.com/naushad2007"
 									target="_blank"
 									title="GitHub"
 									rel="noopener noreferrer"
@@ -262,9 +262,9 @@ const App = () => {
 							<li className="list-inline-item"> - </li>
 							<li className="list-inline-item">
 								<a
-									href="https://github.com/awran5/react-typing-speed-test-game/issues"
+									href="/"
 									target="_blank"
-									title="Issues"
+									title="Home"
 									rel="noopener noreferrer"
 								>
 									Issues
@@ -278,7 +278,7 @@ const App = () => {
 								❤️{' '}
 							</span>
 							by {' '}
-							<a href="https://gkstyle.net/" title="GK STYLE">
+							<a href="/" title="naushad2007">
 								GK STYLE
 							</a>{' '}
 							team.
