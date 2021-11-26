@@ -272,14 +272,14 @@ const App = () => {
 							</li>
 						</ul>
 						<div className="copyright">
-							© 2020. Designed and built with
+							© 2021. Designed and built with
 							<span role="img" aria-label="Heart">
 								{' '}
 								❤️{' '}
 							</span>
 							by {' '}
-							<a href="/" title="naushad2007">
-								GK STYLE
+							<a href="/" title="Home">
+								naushad2002
 							</a>{' '}
 							team.
 						</div>
